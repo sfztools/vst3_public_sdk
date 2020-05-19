@@ -39,6 +39,7 @@
 #if SMTG_OS_LINUX
 
 #include <pthread.h>
+#include <cstdio>
 
 //------------------------------------------------------------------------
 namespace Steinberg {
