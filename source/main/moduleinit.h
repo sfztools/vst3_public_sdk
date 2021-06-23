@@ -40,6 +40,7 @@
 #include <algorithm>
 #include <functional>
 #include <numeric>
+#include <limits>
 
 //------------------------------------------------------------------------
 /** A replacement for InitModule and DeinitModule

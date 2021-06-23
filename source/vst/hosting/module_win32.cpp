@@ -37,7 +37,7 @@
 #include "../utility/optional.h"
 #include "../utility/stringconvert.h"
 #include "module.h"
-#include <ShlObj.h>
+#include <shlobj.h>
 #include <windows.h>
 #include <algorithm>
 #include <iostream>
